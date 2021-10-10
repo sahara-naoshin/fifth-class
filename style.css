@@ -1,0 +1,99 @@
+.header, .internet{
+	height: 100px;
+	width: 100%;
+	background: blue;
+
+}
+
+h1{
+	color: white;
+	margin: 0;
+	text-align: center;
+}
+
+.internet{
+	background: black;
+}
+
+.services{
+	overflow: hidden;
+}
+.content{
+	height: 300px;
+	width: 25%;
+	background: tomato;
+	float: left;
+
+}
+
+.main_content{
+	height: 300px;
+	width: 50%;
+	background: green;
+	float: left;
+}
+
+.content_another{
+	height: 300px;
+	width: 25%;
+	background: tomato;
+	float: right;
+	
+
+	
+}
+
+footer{
+	height: 100px;
+	width: 100%;
+	background: red;
+	overflow: hidden;
+
+}
+
+	header img {
+		width: 100px;
+
+
+
+
+	}
+	header{
+		text-align: center;
+	}
+
+	.internet{
+
+	}
+
+	.internet ul{
+		list-style: none;
+	}
+
+	.internet ul li{
+		display: inline-block;
+
+	}
+
+	.internet ul li a{
+		text-decoration: none;
+		font-size: 40px;
+		color: white;
+		text-align: center;
+		margin: 0 10px;
+	}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
